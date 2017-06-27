@@ -1,5 +1,13 @@
 # fantastic-android-architecture
 
+## Table of content
+
+- [Architecture Component](#architecture-component)
+- [View Model](#view-model)
+- [Model View Presenter](#model-view-presenter)
+- [Dependency Injection](#dependency-injection)
+- [Reactive Programming](#reactive-programming)
+
 ## Architecture Component
 
 ### General
