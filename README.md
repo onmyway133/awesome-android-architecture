@@ -11,6 +11,8 @@
 
 ### Posts
 
+- [Exploring the new Android Architecture Components library](https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23)
+
 ## View Model
 
 ### Posts
