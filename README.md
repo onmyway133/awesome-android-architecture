@@ -27,6 +27,8 @@
 
 ### Posts
 
+- [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
+
 ### Repos
 
 - [mortar](https://github.com/square/mortar) A simple library that makes it easy to pair thin views with dedicated controllers, isolated from most of the vagaries of the Activity life cycle.
