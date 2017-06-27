@@ -6,6 +6,7 @@
 
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html)
 - [Guide to App Architecture](https://developer.android.com/topic/libraries/architecture/guide.html) 🚀🚀🚀🚀🚀
+- [Android lifecycle-aware components codelab](https://codelabs.developers.google.com/codelabs/android-lifecycles)
 
 ### Posts
 
