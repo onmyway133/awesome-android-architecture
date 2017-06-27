@@ -5,6 +5,7 @@
 ### General
 
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html)
+- [Architecture Components - Introduction (Google I/O '17)](https://www.youtube.com/watch?v=FrteWKKVyzI)
 - [Guide to App Architecture](https://developer.android.com/topic/libraries/architecture/guide.html) 🚀🚀🚀🚀🚀
 - [Android lifecycle-aware components codelab](https://codelabs.developers.google.com/codelabs/android-lifecycles)
 
