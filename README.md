@@ -13,6 +13,11 @@
 
 - [Exploring the new Android Architecture Components library](https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23)
 
+### Repos
+
+- [android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample) Sample app using Android architecture components
+- [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Samples for Android Architecture Components
+
 ## View Model
 
 ### Posts
