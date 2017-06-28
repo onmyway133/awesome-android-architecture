@@ -52,6 +52,7 @@
 ### Repos
 
 - [kapsule](https://github.com/traversals/kapsule) Minimalist dependency injection library for Kotlin.
+- [Kodein](https://github.com/SalomonBrys/Kodein) Painless Kotlin Dependency Injection 
 
 ## Reactive Programming
 
