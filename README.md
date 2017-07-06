@@ -35,6 +35,7 @@
 ### Repos
 
 - [AndroidViewModel](https://github.com/inloop/AndroidViewModel) Separating data and state handling from Fragments or Activities without lots of boilerplate-code.
+- [android-oss](https://github.com/kickstarter/android-oss) Kickstarter for Android
 
 ## Model View Presenter
 
