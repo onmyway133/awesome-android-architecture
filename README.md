@@ -42,6 +42,7 @@
 ### Posts
 
 - [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
+- [Android MVP — Doing it right](https://android.jlelse.eu/android-mvp-doing-it-right-dac9d5d72079)
 
 ### Repos
 
