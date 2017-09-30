@@ -2,23 +2,27 @@
 
 ## Table of content
 
+- [General](#general)
 - [Architecture Component](#architecture-component)
 - [View Model](#view-model)
 - [Model View Presenter](#model-view-presenter)
 - [Dependency Injection](#dependency-injection)
 - [Reactive Programming](#reactive-programming)
 
+## General
+
+### Posts
+
+- [Android Architecture: Part 1 – every new beginning is hard](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
+
 ## Architecture Component
 
-### General
+### Posts
 
 - [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/index.html)
 - [Architecture Components - Introduction (Google I/O '17)](https://www.youtube.com/watch?v=FrteWKKVyzI)
 - [Guide to App Architecture](https://developer.android.com/topic/libraries/architecture/guide.html) 🚀🚀🚀🚀🚀
 - [Android lifecycle-aware components codelab](https://codelabs.developers.google.com/codelabs/android-lifecycles)
-
-### Posts
-
 - [Exploring the new Android Architecture Components library](https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23)
 
 ### Repos
