@@ -2,20 +2,12 @@
 
 ## Table of content
 
-- [General](#general)
 - [Architecture Component](#architecture-component)
 - [View Model](#view-model)
 - [Model View Presenter](#model-view-presenter)
-- [Dependency Injection](#dependency-injection)
-- [Reactive Programming](#reactive-programming)
+- [Misc](#misc)
 
-## General
-
-### Posts
-
-- [Android Architecture: Part 1 – every new beginning is hard](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
-
-## Architecture Component
+# Architecture Component
 
 ### Posts
 
@@ -30,7 +22,7 @@
 - [android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample) Sample app using Android architecture components
 - [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Samples for Android Architecture Components
 
-## View Model
+# View Model
 
 ### Posts
 
@@ -41,7 +33,7 @@
 - [AndroidViewModel](https://github.com/inloop/AndroidViewModel) Separating data and state handling from Fragments or Activities without lots of boilerplate-code.
 - [android-oss](https://github.com/kickstarter/android-oss) Kickstarter for Android
 
-## Model View Presenter
+# Model View Presenter
 
 ### Posts
 
@@ -53,16 +45,20 @@
 - [mortar](https://github.com/square/mortar) A simple library that makes it easy to pair thin views with dedicated controllers, isolated from most of the vagaries of the Activity life cycle.
 - [nucleus](https://github.com/konmik/nucleus) Nucleus is an Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.
 
-## Dependency Injection
+# Misc
 
-### Repos
+### General
+
+- [Android Architecture: Part 1 – every new beginning is hard](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
+
+### Reactive Programming
+
+- [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
+- [Crunching RxAndroid — Intro](https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea)
+
+
+### Dependency Injection
 
 - [kapsule](https://github.com/traversals/kapsule) Minimalist dependency injection library for Kotlin.
 - [Kodein](https://github.com/SalomonBrys/Kodein) Painless Kotlin Dependency Injection 
 
-## Reactive Programming
-
-### Posts
-
-- [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
-- [Crunching RxAndroid — Intro](https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea)
