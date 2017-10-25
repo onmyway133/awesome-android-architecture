@@ -47,9 +47,10 @@
 
 # Misc
 
-### General
+### Posts
 
 - [Android Architecture: Part 1 – every new beginning is hard](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
+- [Model View Intent on Android](http://hannesdorfmann.com/android/model-view-intent)
 
 ### Reactive Programming
 
