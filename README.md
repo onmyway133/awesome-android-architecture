@@ -16,6 +16,7 @@
 - [Guide to App Architecture](https://developer.android.com/topic/libraries/architecture/guide.html) 🚀🚀🚀🚀🚀
 - [Android lifecycle-aware components codelab](https://codelabs.developers.google.com/codelabs/android-lifecycles)
 - [Exploring the new Android Architecture Components library](https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23)
+- [droidcon NYC 2017 - ViewModels, LiveData and Lifecycles, oh my!](https://www.youtube.com/watch?v=SlZVYkhoSq8)
 
 ### Repos
 
