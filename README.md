@@ -5,6 +5,7 @@
 - [Architecture Component](#architecture-component)
 - [View Model](#view-model)
 - [Model View Presenter](#model-view-presenter)
+- [Model View Intent](#model-view-intent)
 - [Misc](#misc)
 
 # Architecture Component
@@ -45,6 +46,13 @@
 
 - [mortar](https://github.com/square/mortar) A simple library that makes it easy to pair thin views with dedicated controllers, isolated from most of the vagaries of the Activity life cycle.
 - [nucleus](https://github.com/konmik/nucleus) Nucleus is an Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.
+
+# Model View Intent
+
+### Posts
+
+- [android-architecture](https://github.com/oldergod/android-architecture) MVI architecture Implementation of the ToDo app.
+- [droidcon NYC 2017 - Model-View-Intent for Android](https://www.youtube.com/watch?v=PXBXcHQeDLE)
 
 # Misc
 
