@@ -41,6 +41,7 @@
 
 - [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
 - [Android MVP — Doing it right](https://android.jlelse.eu/android-mvp-doing-it-right-dac9d5d72079)
+- [droidcon NYC 2017 - Clean app design with Architecture Components](https://www.youtube.com/watch?v=i1-7S-RxfvQ) :rocket:
 
 ### Repos
 
