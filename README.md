@@ -3,9 +3,9 @@
 ## Table of content
 
 - [Architecture Component](#architecture-component)
-- [View Model](#view-model)
 - [Model View Presenter](#model-view-presenter)
 - [Model View Intent](#model-view-intent)
+- [MVVM](#mvvm)
 - [Misc](#misc)
 
 # Architecture Component
@@ -19,22 +19,12 @@
 - [Exploring the new Android Architecture Components library](https://medium.com/exploring-android/exploring-the-new-android-architecture-components-c33b15d89c23)
 - [droidcon NYC 2017 - ViewModels, LiveData and Lifecycles, oh my!](https://www.youtube.com/watch?v=SlZVYkhoSq8)
 - [Android Architecture Components Considered Harmful](https://academy.realm.io/posts/android-architecture-components-considered-harmful-mobilization/)
+- [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090)
 
 ### Repos
 
 - [android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample) Sample app using Android architecture components
 - [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Samples for Android Architecture Components
-
-# View Model
-
-### Posts
-
-- [ANDROID DATABINDING: GOODBYE PRESENTER, HELLO VIEWMODEL!](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
-
-### Repos
-
-- [AndroidViewModel](https://github.com/inloop/AndroidViewModel) Separating data and state handling from Fragments or Activities without lots of boilerplate-code.
-- [android-oss](https://github.com/kickstarter/android-oss) Kickstarter for Android
 
 # Model View Presenter
 
@@ -55,6 +45,17 @@
 
 - [android-architecture](https://github.com/oldergod/android-architecture) MVI architecture Implementation of the ToDo app.
 - [droidcon NYC 2017 - Model-View-Intent for Android](https://www.youtube.com/watch?v=PXBXcHQeDLE)
+
+# MVVM
+
+### Posts
+
+- [ANDROID DATABINDING: GOODBYE PRESENTER, HELLO VIEWMODEL!](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
+
+### Repos
+
+- [AndroidViewModel](https://github.com/inloop/AndroidViewModel) Separating data and state handling from Fragments or Activities without lots of boilerplate-code.
+- [android-oss](https://github.com/kickstarter/android-oss) Kickstarter for Android
 
 # Misc
 
