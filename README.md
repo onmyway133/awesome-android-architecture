@@ -45,6 +45,7 @@
 
 - [android-architecture](https://github.com/oldergod/android-architecture) MVI architecture Implementation of the ToDo app.
 - [droidcon NYC 2017 - Model-View-Intent for Android](https://www.youtube.com/watch?v=PXBXcHQeDLE)
+- [The Contract of the Model-View-Intent Architecture](https://proandroiddev.com/the-contract-of-the-model-view-intent-architecture-777f95706c1e)
 
 # MVVM
 
