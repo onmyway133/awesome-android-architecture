@@ -52,6 +52,8 @@
 ### Posts
 
 - [ANDROID DATABINDING: GOODBYE PRESENTER, HELLO VIEWMODEL!](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
+- [Android Architecture Patterns Part 3:
+Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
 
 ### Repos
 
