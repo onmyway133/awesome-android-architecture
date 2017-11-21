@@ -3,8 +3,9 @@
 ## Table of content
 
 - [Architecture Component](#architecture-component)
-- [Model View Presenter](#model-view-presenter)
-- [Model View Intent](#model-view-intent)
+- [MVP](#mvp)
+- [MVC](#mvc)
+- [mvi](#mvi)
 - [MVVM](#mvvm)
 - [Misc](#misc)
 
@@ -26,20 +27,30 @@
 - [android-architecture-counter-sample](https://github.com/dlew/android-architecture-counter-sample) Sample app using Android architecture components
 - [android-architecture-components](https://github.com/googlesamples/android-architecture-components) Samples for Android Architecture Components
 
-# Model View Presenter
+# MVP
+Model View Presenter
 
 ### Posts
 
 - [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
 - [Android MVP — Doing it right](https://android.jlelse.eu/android-mvp-doing-it-right-dac9d5d72079)
 - [droidcon NYC 2017 - Clean app design with Architecture Components](https://www.youtube.com/watch?v=i1-7S-RxfvQ) :rocket:
+- [Android Architecture Patterns Part 2: Model-View-Presenter](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5)
 
 ### Repos
 
 - [mortar](https://github.com/square/mortar) A simple library that makes it easy to pair thin views with dedicated controllers, isolated from most of the vagaries of the Activity life cycle.
 - [nucleus](https://github.com/konmik/nucleus) Nucleus is an Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.
 
-# Model View Intent
+# MVC
+Model View Controller
+
+### Posts
+
+- [Android Architecture Patterns Part 1: Model-View-Controller](https://medium.com/upday-devs/android-architecture-patterns-part-1-model-view-controller-3baecef5f2b6)
+
+# MVI
+Model View Intent
 
 ### Posts
 
