@@ -59,6 +59,7 @@ Model View Intent
 - [The Contract of the Model-View-Intent Architecture](https://proandroiddev.com/the-contract-of-the-model-view-intent-architecture-777f95706c1e)
 
 # MVVM
+Model View ViewModel
 
 ### Posts
 
