@@ -5,7 +5,7 @@
 - [Architecture Component](#architecture-component)
 - [MVP](#mvp)
 - [MVC](#mvc)
-- [mvi](#mvi)
+- [MVI](#mvi)
 - [MVVM](#mvvm)
 - [Misc](#misc)
 
@@ -65,6 +65,7 @@ Model View Intent
 - [ANDROID DATABINDING: GOODBYE PRESENTER, HELLO VIEWMODEL!](http://tech.vg.no/2015/07/17/android-databinding-goodbye-presenter-hello-viewmodel/)
 - [Android Architecture Patterns Part 3:
 Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b)
+- [Android Architecture Components MVVM — Part 1](https://proandroiddev.com/android-architecture-components-mvvm-part-1-1bd138959535)
 
 ### Repos
 
