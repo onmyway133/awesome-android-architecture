@@ -98,6 +98,7 @@ Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-pattern
 - [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
 - [Crunching RxAndroid — Intro](https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea)
 - [RxAndroid and Kotlin (Part 1)](https://medium.freecodecamp.org/rxandroid-and-kotlin-part-1-f0382dc26ed8)
+- [Retrofiting on Android with Kotlin](https://segunfamisa.com/posts/using-retrofit-on-android-with-kotlin)
 
 ### Dependency Injection
 
