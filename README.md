@@ -37,6 +37,7 @@ Model View Presenter
 - [Android MVP — Doing it right](https://android.jlelse.eu/android-mvp-doing-it-right-dac9d5d72079)
 - [droidcon NYC 2017 - Clean app design with Architecture Components](https://www.youtube.com/watch?v=i1-7S-RxfvQ) :rocket:
 - [Android Architecture Patterns Part 2: Model-View-Presenter](https://medium.com/upday-devs/android-architecture-patterns-part-2-model-view-presenter-8a6faaae14a5)
+- [Essential Guide For Designing Your Android App Architecture: MVP: Part 1](https://blog.mindorks.com/essential-guide-for-designing-your-android-app-architecture-mvp-part-1-74efaf1cda40)
 
 ### Repos
 
