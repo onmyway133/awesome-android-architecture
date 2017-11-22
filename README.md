@@ -83,6 +83,7 @@ Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-pattern
 ### Repos
 
 - [CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
+- [android-clean-architecture-boilerplate](https://github.com/bufferapp/android-clean-architecture-boilerplate)
 
 # Misc
 
