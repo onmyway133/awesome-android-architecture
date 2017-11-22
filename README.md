@@ -79,12 +79,12 @@ Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-pattern
 
 - [Android Architecture: Part 1 – every new beginning is hard](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
 - [Model View Intent on Android](http://hannesdorfmann.com/android/model-view-intent)
+- [Communication between Fragment and Activity](https://github.com/onmyway133/blog/issues/108)
 
 ### Reactive Programming
 
 - [Grokking RxJava, Part 1: The Basics](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
 - [Crunching RxAndroid — Intro](https://medium.com/crunching-rxandroid/crunching-rxandroid-intro-c27eb6f009ea)
-
 
 ### Dependency Injection
 
