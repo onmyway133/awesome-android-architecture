@@ -103,6 +103,10 @@ Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-pattern
 - [Retrofiting on Android with Kotlin](https://segunfamisa.com/posts/using-retrofit-on-android-with-kotlin)
 - [Using Kotlin, RxJava 2 and Retrofit to consume REST API on Android](https://softwaremill.com/kotlin-rxjava2-retrofit-android/)
 
+### Adapter
+
+- [Great Adapter hell escape](http://hannesdorfmann.com/android/adapter-delegates)
+
 ### Dependency Injection
 
 - [kapsule](https://github.com/traversals/kapsule) Minimalist dependency injection library for Kotlin.
