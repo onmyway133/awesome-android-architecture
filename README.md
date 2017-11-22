@@ -93,7 +93,8 @@ Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-pattern
 - [Android Architecture: Part 1 – every new beginning is hard](http://five.agency/android-architecture-part-1-every-new-beginning-is-hard/)
 - [Model View Intent on Android](http://hannesdorfmann.com/android/model-view-intent)
 - [Communication between Fragment and Activity](https://github.com/onmyway133/blog/issues/108)
-- [Keddit — Intro: Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664) :rocket:
+- [Keddit — Intro: Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664) :rocket: :rocket:
+- [MVC vs MVP vs MVVM vs MVI](https://academy.realm.io/posts/mvc-vs-mvp-vs-mvvm-vs-mvi-mobilization-moskala)
 
 ### Reactive Programming
 
