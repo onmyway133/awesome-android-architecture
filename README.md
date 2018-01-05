@@ -95,6 +95,7 @@ Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-pattern
 - [Communication between Fragment and Activity](https://github.com/onmyway133/blog/issues/108)
 - [Keddit — Intro: Learn Kotlin while developing an Android App](https://android.jlelse.eu/learn-kotlin-while-developing-an-android-app-introduction-567e21ff9664) :rocket: :rocket:
 - [MVC vs MVP vs MVVM vs MVI](https://academy.realm.io/posts/mvc-vs-mvp-vs-mvvm-vs-mvi-mobilization-moskala)
+- [A Functional Approach to Android Architecture using Kotlin](https://academy.realm.io/posts/mobilization-2017-jorge-castillo-functional-android-architecture-kotlin/)
 
 ### Reactive Programming
 
