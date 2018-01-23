@@ -22,6 +22,7 @@
 - [droidcon NYC 2017 - ViewModels, LiveData and Lifecycles, oh my!](https://www.youtube.com/watch?v=SlZVYkhoSq8)
 - [Android Architecture Components Considered Harmful](https://academy.realm.io/posts/android-architecture-components-considered-harmful-mobilization/)
 - [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090)
+- [ViewModels and LiveData: Patterns + AntiPatterns](https://medium.com/google-developers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
 
 ### Repos
 
