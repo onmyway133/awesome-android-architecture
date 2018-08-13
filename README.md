@@ -23,6 +23,7 @@
 - [Android Architecture Components Considered Harmful](https://academy.realm.io/posts/android-architecture-components-considered-harmful-mobilization/)
 - [ViewModels: Persistence, onSaveInstanceState(), Restoring UI State and Loaders](https://medium.com/google-developers/viewmodels-persistence-onsaveinstancestate-restoring-ui-state-and-loaders-fc7cc4a6c090)
 - [ViewModels and LiveData: Patterns + AntiPatterns](https://medium.com/google-developers/viewmodels-and-livedata-patterns-antipatterns-21efaef74a54)
+- [Google releases source for Google I/O 2018 for Android](https://android-developers.googleblog.com/2018/08/google-releases-source-for-google-io.html)
 
 ### Repos
 
