@@ -117,6 +117,7 @@ Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-pattern
 
 - [kapsule](https://github.com/traversals/kapsule) Minimalist dependency injection library for Kotlin.
 - [Kodein](https://github.com/SalomonBrys/Kodein) Painless Kotlin Dependency Injection 
+- [Dependency injection in Android](https://developer.android.com/training/dependency-injection)
 
 ### Testing
 
